@@ -1,6 +1,6 @@
-# 🚀 Dynamic Window Approach (DWA) for Robot Navigation  
+#  Dynamic Window Approach (DWA) for Robot Navigation  
 
-![DWA Simulation](media/https://github.com/user-attachments/assets/70e92945-ddf7-428f-b7c8-3baf52c3b386)
+![DWA Simulation](media/Capture d’écran 2025-01-29 135510.png)
 
 ## 📌 Overview  
 This project implements the **Dynamic Window Approach (DWA)** for real-time motion planning of a **differential-drive robot**. The robot navigates toward a goal **while avoiding obstacles**, selecting the optimal trajectory at each time step.  
